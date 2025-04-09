@@ -1,1 +1,1 @@
-Aqui estão alguns projetos acadêmicos que fiz na faculdade.
+Aqui estão alguns projetos que foram desenvolvidos em sala de aula.
