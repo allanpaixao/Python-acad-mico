@@ -1,1 +1,1 @@
-Aqui estão alguns programas acadêmicos que fiz na faculdade, todos progetos bem introdutorios. 
+Aqui estão alguns projetos acadêmicos que fiz na faculdade.
